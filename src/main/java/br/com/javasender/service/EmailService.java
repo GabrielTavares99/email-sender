@@ -4,7 +4,7 @@ import br.com.javasender.config.Constants;
 import br.com.javasender.entity.Email;
 import org.apache.commons.mail.EmailException;
 import org.apache.commons.mail.MultiPartEmail;
-import util.FileUtil;
+import br.com.javasender.util.FileUtil;
 
 import java.io.File;
 import java.util.Map;

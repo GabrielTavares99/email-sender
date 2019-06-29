@@ -1,4 +1,4 @@
-package util;
+package br.com.javasender.util;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
